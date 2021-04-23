@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhotoSearch</string>
+    <string name="todo">TODO</string>
+    <string name="loading">Loading...</string>
+    <string name="data_updated">Latest data updated!</string>
+    <string name="cant_load_records">Can\'t load more records!</string>
+    <string name="network_not_available_error">Network not available! Trying to loading cached data..</string>
+    <string name="refresh">Refresh</string>
+    <string name="some_error_occurred">Some error occurred!</string>
+    <string name="sort_by_price">Sort by Price</string>
+    <string name="sort_by_state">Sort by State</string>
+</resources>
